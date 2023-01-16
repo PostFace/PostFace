@@ -59,6 +59,6 @@
 
 <br>
  
-![PostFace's github stats](https://github-readme-stats.vercel.app/api?username=PostFace&show_icons=true&theme=tokyonight)
+[![PostFace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PostFace&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PostFace&layout=compact&theme=tokyonight)
 

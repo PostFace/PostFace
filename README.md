@@ -59,6 +59,6 @@
 
 <br>
  
-![PostFace's GitHub stats](https://github-readme-stats-postface.vercel.app/api?username=PostFace&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-postface.vercel.app/api/top-langs/?username=PostFace&layout=compact&theme=tokyonight)
+![PostFace's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PostFace&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PostFace&layout=compact&theme=tokyonight)
 

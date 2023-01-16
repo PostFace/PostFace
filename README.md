@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20To&fontSize=80&animation=twinkling&fontAlignY=38&desc=PostFace's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
+</div>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>

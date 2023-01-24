@@ -5,21 +5,21 @@
 
 <h2> 새로운 것을 관찰하는 개발자, 장정훈입니다.</h2>
 <br>
-<p align="center">
+
 ### **<h3>:raising_hand:  About Me </h3>** 
 
 
 ## Introduction 
-</p>   
+  
  - 안녕하세요! 신입 백엔드 개발자 **장정훈**입니다. 
  - 새로운 것을 보면 두렵기보단 궁금하고 접해보고 싶습니다.
  - 무엇보다도 **사용자의 편리함**을 극대화 하는 것에 관심이 있습니다.
  - 모든 면에서 경제적으로 비용을 **절약**할 수 있는 방법을 찾습니다.
  - 내 것, 니 것이 아닌 **우리의 것**이라 생각하고 함께 하는 것이 좋습니다.
  - 나도 중요하지만 **팀원**이 앞서나가야 우리 팀이 나아갈 수 있다고 생각합니다.
-<p align="center">
+
 ## :telephone_receiver: Contact & Channel
-</p>   
+  
 - **Email** | **ijj5258@naver.com**
 - **Blog** |  https://post-face.tistory.com/
 <p align="center">
@@ -78,9 +78,9 @@
 
 <br>
 
-<p align="center">
+
 ## :pushpin: Projects
-</p>
+
 ### 1. [Billy A Dream](https://github.com/PostFace/Billy-A-Dream)
 >개인간 렌탈 거래 플랫폼  (팀 프로젝트)  
 >개발 기간: 2022.09.12 ~ 2022.09.30  

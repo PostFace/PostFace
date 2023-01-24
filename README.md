@@ -27,49 +27,66 @@
 ## :pick: Skills ##
 
 ### 💡Language 
-<br>
+
+<p display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    
+</p>
+
 ### 💡Backend 
-<br>
+
 <p display="inline-block">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
 
 ### 💡Little bit of Frontend
-<br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" ><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-  
+
+<p display="inline-block">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+</p>
+
 ### 💡Tools
-<br>
+
+<p display="inline-block">
     <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
-    
+</p>
+
 ### 💡DB 
-<br>
+
+<p display="inline-block">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    
+</p>
+
 ### 💡DevOps 
-<br>
+
+<p display="inline-block">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    
+ </p>
+ 
 ### 💡Cowork Tools 
-<br>
+
+<p display="inline-block">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-    
+</p>
+
 ### 💡CI/CD 
-<br>
+
+<p display="inline-block">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-    
+</p>
+
 ### 💡Used at least once
-<br>
+
+<p display="inline-block">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
-
+</p>
 
 <br>
 

@@ -3,6 +3,25 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20To&fontSize=80&animation=twinkling&fontAlignY=38&desc=PostFace's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
 </p>
 
+<h2> 새로운 것을 관찰하는 개발자, 장정훈입니다.</h2>
+<br>
+<p align="center">
+### **<h3>:raising_hand:  About Me </h3>** 
+
+
+## Introduction 
+</p>   
+ - 안녕하세요! 신입 백엔드 개발자 **장정훈**입니다. 
+ - 새로운 것을 보면 두렵기보단 궁금하고 접해보고 싶습니다.
+ - 무엇보다도 **사용자의 편리함**을 극대화 하는 것에 관심이 있습니다.
+ - 모든 면에서 경제적으로 비용을 **절약**할 수 있는 방법을 찾습니다.
+ - 내 것, 니 것이 아닌 **우리의 것**이라 생각하고 함께 하는 것이 좋습니다.
+ - 나도 중요하지만 **팀원**이 앞서나가야 우리 팀이 나아갈 수 있다고 생각합니다.
+<p align="center">
+## :telephone_receiver: Contact & Channel
+</p>   
+- **Email** | **ijj5258@naver.com**
+- **Blog** |  https://post-face.tistory.com/
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
@@ -58,6 +77,47 @@
 </p>
 
 <br>
+
+<p align="center">
+## :pushpin: Projects
+</p>
+### 1. [Billy A Dream](https://github.com/PostFace/Billy-A-Dream)
+>개인간 렌탈 거래 플랫폼  (팀 프로젝트)  
+>개발 기간: 2022.09.12 ~ 2022.09.30  
+>  
+>기술 스택:  
+>AWS EC2, AWS RDS Oracle, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery
+>  
+>[프로젝트 상세 설명](https://github.com/PostFace/Billy-A-Dream.git) &nbsp;/&nbsp;
+>[프로젝트 영상](https://youtu.be/JL0fxZF3Tb0) &nbsp;/&nbsp;
+>[Notion 협업](https://diagnostic-raven-02c.notion.site/2e50d5da245f49dfa59e756097219ff6?v=36f05fd3737348478d4ffc22c58814e9) 
+---
+
+### 2. [WMS_corporate_project](https://github.com/PostFace/WMS_corporate_project)
+>WMS 창고 물류관리 시스템  (팀 프로젝트)  
+>개발 기간: 2022.10.24 ~ 2022.11.24
+>  
+>기술 스택:  
+>AWS EC2, AWS RDS Oracle, Oracle Cloud, Ngrok, Jenkins, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery, Bootstrap
+>  
+>[프로젝트 상세 설명](https://github.com/PostFace/WMS_Project.git) &nbsp;/&nbsp;
+>[프로젝트 영상](https://www.youtube.com/watch?v=gVzC5DC1zgE&t=420s) &nbsp;/&nbsp;
+>[Notion 협업](https://diagnostic-raven-02c.notion.site/1-e754e62847224d21805c4a1de271887b) 
+
+
+---
+
+### 3. [Sell_and_Talk](https://github.com/PostFace/Sell_and_Talk)
+>의류/신발 쇼핑몰+중고거래 플랫폼+커뮤니티 (개인 프로젝트)  
+>개발 기간: 2022.07.25 ~ 2022.08.05  
+>  
+>기술 스택:  
+>Oracle, Java, Jsp, Tomcat, Html, Css, Javascript, jQuery, Bootstrap
+>  
+>[프로젝트 상세 설명](https://github.com/PostFace/Sell_and_Talk.git) &nbsp;/&nbsp;
+>[프로젝트 영상](https://youtu.be/uR3UEj_go7s) 
+
+---
  
 ![PostFace's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PostFace&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PostFace&layout=compact&theme=tokyonight)

@@ -22,9 +22,11 @@
   
 - **Email** | **ijj5258@naver.com**
 - **Blog** |  https://post-face.tistory.com/
-<p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-</p>
+<br>
+
+## :pick: Skills ##
+
+<br>
 
 <p align="center" display="inline-block">
     💡Language <br>
